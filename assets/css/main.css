@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.NuxtLink-exact-active {
+    font-weight: bold;
+    color: #FE5823;
+}
